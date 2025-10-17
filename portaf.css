@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #0077cc;
+  background-color: #35A4B8;
   color: white;
   padding: 2rem 1rem;
   text-align: center;
@@ -42,14 +42,14 @@ main {
   display: inline-block;
   margin-top: 1rem;
   padding: 0.5rem 1rem;
-  background-color: #0077cc;
+  background-color: #005B6E;
   color: white;
   text-decoration: none;
   border-radius: 4px;
 }
 
 .boton:hover {
-  background-color: #005fa3;
+  background-color: #005B6E;
 }
 
 footer {
